@@ -260,23 +260,20 @@ The system should display an appropriate error message instead of crashing.
 ---
 
 ## 7. Screenshots
-## Screenshots
-
 ### Screenshot 1
-![MediCare Screenshot 1](j1.png)
+![MediCare Screenshot 1](output/j1.png)
 
 ### Screenshot 2
-![MediCare Screenshot 2](j2.png)
+![MediCare Screenshot 2](output/j2.png)
 
 ### Screenshot 3
-![MediCare Screenshot 3](j3.png)
+![MediCare Screenshot 3](output/j3.png)
 
 ### Screenshot 4
-![MediCare Screenshot 4](j4.png)
+![MediCare Screenshot 4](output/j4.png)
 
 ### Screenshot 5
-![MediCare Screenshot 5](j5.png)
-
+![MediCare Screenshot 5](output/j5.png)
 
 ## Project Execution
 
